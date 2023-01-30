@@ -1,6 +1,6 @@
 # Bootcamp Fullstack Typescript com react.js e node.js
 
- ![node.js react.js express typescript javascript](https://raw.githubusercontent.com/alessandradocouto/typescript-fullstack-developer-dio/master/logo-linguagens.png) 
+ ![node.js react.js express typescript javascript](https://raw.githubusercontent.com/alessandradocouto/bootcamp-typescript/master/logo-linguagens.png) 
 
 
 ## Atividades do bootcamp
