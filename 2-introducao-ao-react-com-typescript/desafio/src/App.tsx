@@ -1,11 +1,16 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import './App.css'
+// components
+import Header from './components/Header'
+import Card from './components/Card'
 
 function App() {
 
   return (
-    <h1>App</h1>
+    <>
+    <Header />
+    <Card />
+    </>
   )
 }
 
